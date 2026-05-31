@@ -1,4 +1,4 @@
-# 🚀 Fake job finder using NLP
+# 🚀 Fake job finder using NLP and Logistic Regression
 
 > Short description of what this project does and why it is useful.
 
