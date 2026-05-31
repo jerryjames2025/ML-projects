@@ -1,4 +1,4 @@
-# 🚀 Project Title
+# 🚀 Fake job finder using NLP
 
 > Short description of what this project does and why it is useful.
 
@@ -90,7 +90,7 @@ jupyter notebook
 
 Example outputs:
 
-- Model accuracy: XX%
+- Model accuracy: 96%
 - Training loss visualization
 - Performance comparison charts
 
